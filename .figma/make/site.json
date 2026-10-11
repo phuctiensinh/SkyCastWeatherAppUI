@@ -1,0 +1,10 @@
+{
+  "description": "Stay updated with real-time weather forecasts, air quality, and news tailored for Vietnamese cities, all in a user-friendly mobile interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
